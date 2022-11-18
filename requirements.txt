@@ -1,0 +1,8 @@
+opencv-python==4.2.0.32
+scipy
+numpy
+matplotlib
+pydot
+graphviz
+tensorflow==1.0.1
+keras==2.0.2
